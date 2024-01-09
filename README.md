@@ -6,3 +6,9 @@ As the time to generate these reports may widely change from a day to another an
 
 This version is deliberately a demo version. the real data was removed and you will need to modify the code to adapt it for your use. Read comments in code!
 
+<br>
+<img src="./screenshots/img01.JPG">
+<br>
+<img src="./screenshots/img02.JPG">
+<br>
+<img src="./screenshots/img03.JPG">
