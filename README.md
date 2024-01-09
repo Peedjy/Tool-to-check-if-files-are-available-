@@ -6,4 +6,3 @@ As the time to generate these reports may widely change from a day to another an
 
 This version is deliberately a demo version. the real data was removed and you will need to modify the code to adapt it for your use. Read comments in code!
 
-![image](https://github.com/Peedjy/Tool-to-check-if-files-are-available-/assets/155731627/a3690b31-781b-485c-915e-f8663e7f1b43)
